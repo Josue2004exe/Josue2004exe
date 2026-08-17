@@ -34,9 +34,11 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-<!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN (SIN ETIQUETAS RECTANGULARES) -->
+<!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN (CON ANTIGRAVITY IDE) -->
 <a href="https://github.com/Josue2004exe">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,js,html,css,vscode,git,github,windows&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,js,html,css" height="48" alt="Languages & Mobile" />
+  <img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/antigravity.png" height="48" alt="Antigravity IDE" title="Antigravity IDE" style="vertical-align: top; margin: 0 2px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,windows" height="48" alt="Tools & OS" />
 </a>
 
 <br/><br/>
@@ -56,7 +58,7 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
     <td align="center" width="33%">
       <b>⚙️ Sistemas &amp; Herramientas</b><br/>
       <code>Windows Tuning</code> • <code>Git &amp; GitHub</code><br/>
-      <code>VS Code</code> • <code>Low Latency</code>
+      <code>Antigravity IDE</code> • <code>Low Latency</code>
     </td>
   </tr>
 </table>
