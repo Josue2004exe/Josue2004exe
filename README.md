@@ -132,9 +132,9 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <br/>
 
-<!-- CUADRÍCULA OFICIAL DE CUADROS DE ACTIVIDAD (HEATMAP CALENDAR) -->
+<!-- CUADRÍCULA OFICIAL DE CONTRIBUCIONES EN MODO OSCURO (#161B22 & VERDE ESMERALDA) -->
 <a href="https://github.com/Josue2004exe">
-  <img src="https://ghchart.rshah.org/39d353/Josue2004exe" alt="Cuadrícula de Contribuciones de Flavio Morales" width="98%" />
+  <img src="https://raw.githubusercontent.com/josue2004exe/josue2004exe/main/assets/contributions_dark.svg" alt="Cuadrícula de Contribuciones de Flavio Morales" width="98%" />
 </a>
 
 </div>
