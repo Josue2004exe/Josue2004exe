@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER VECTORIAL DE ALTO RENDIMIENTO (LOCAL Y 100% GARANTIZADO) -->
-<img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/banner.svg" alt="Flavio Morales Banner" width="100%"/>
+<img src="./assets/header.svg" alt="Flavio Morales Banner" width="100%"/>
 
 <br/><br/>
 
