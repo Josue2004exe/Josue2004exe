@@ -18,9 +18,9 @@
 
 ### 👨‍💻 Sobre mí / About Me
 
-¡Hola! Soy **Flavio Morales**, estudiante universitario cursando el **5to semestre de Ingeniería** y apasionado por el desarrollo de software moderno, la optimización de sistemas y la cultura de **Vibe Coding** ⚡ (creación ágil de software, prototipado ultra rápido y desarrollo de alto impacto potenciado por Inteligencia Artificial).
+¡Hola! Soy **Flavio Morales**, estudiante universitario cursando el **5to semestre de Ingeniería** y apasionado por el desarrollo móvil nativo, la optimización de sistemas y la cultura de **Vibe Coding** ⚡ (creación ágil de software, prototipado ultra rápido y desarrollo de alto impacto potenciado por Inteligencia Artificial).
 
-Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitectura limpia y alto rendimiento, desde aplicaciones móviles nativas hasta herramientas de optimización para PC y plataformas web.
+Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitectura limpia y alto rendimiento, especializándome en aplicaciones móviles nativas y herramientas de optimización para PC.
 
 - 🎓 **En la universidad:** Cursando actualmente el **5to semestre de Ingeniería**, fortaleciendo bases sólidas en algoritmos, estructuras de datos y arquitectura de sistemas.
 - ⚡ **Vibe Coding & AI-Driven Development:** Creando productos y soluciones a máxima velocidad con herramientas de IA de última generación para iterar, diseñar y desplegar sin fricción.
@@ -41,12 +41,11 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🤖 Vibe Coding, AI & Web
+#### 🤖 Vibe Coding & AI
 ![Vibe Coding](https://img.shields.io/badge/⚡_Vibe_Coding-AI_Driven_Dev-00e5ff?style=for-the-badge&labelColor=0a0f1d)
 ![Gemini AI](https://img.shields.io/badge/Gemini_API-8E75FF?style=for-the-badge&logo=google&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### ⚙️ Entornos de Desarrollo & Herramientas
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-Google_AI_Agentic-4285F4?style=for-the-badge&logo=google&logoColor=white)
