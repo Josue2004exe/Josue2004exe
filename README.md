@@ -114,7 +114,7 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-<!-- TARJETAS DE ESTADÍSTICAS SIMÉTRICAS EN PALETA MONOCROMÁTICA LUXURY (#0A0A0A) -->
+<!-- TARJETAS DE ESTADÍSTICAS SIMÉTRICAS -->
 <table align="center" border="0" cellpadding="0" cellspacing="6">
   <tr align="center">
     <td align="center" valign="middle">
@@ -129,6 +129,13 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- CUADRÍCULA OFICIAL DE CUADROS DE ACTIVIDAD (HEATMAP CALENDAR) -->
+<a href="https://github.com/Josue2004exe">
+  <img src="https://ghchart.rshah.org/39d353/Josue2004exe" alt="Cuadrícula de Contribuciones de Flavio Morales" width="98%" />
+</a>
 
 </div>
 
