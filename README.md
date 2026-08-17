@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mí / About Me
 
-¡Hola! Soy **Flavio Morales**, estudiante universitario cursando el **5to semestre de Ingeniería** y apasionado por el desarrollo móvil nativo, la optimización de sistemas y la cultura de **Vibe Coding** ⚡ (creación ágil de software, prototipado ultra rápido y desarrollo de alto impacto potenciado por Inteligencia Artificial).
+¡Hola! Soy **Flavio Morales**, estudiante universitario cursando el **5to semestre de Ingeniería** y apasionado por el desarrollo de software, desarrollo móvil nativo, la optimización de sistemas y la cultura de **Vibe Coding** ⚡ (creación ágil de software, prototipado ultra rápido y desarrollo de alto impacto potenciado por Inteligencia Artificial).
 
 Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitectura limpia y alto rendimiento, especializándome en aplicaciones móviles nativas y herramientas de optimización para PC.
 
@@ -91,10 +91,18 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <h3>🌐 <a href="https://josue2004exe.github.io/">Portafolio Web Oficial (FM.)</a></h3>
-      <p>Sitio web interactivo con diseño Dark/Glassmorphism, sistema multilingüe dinámico (ES/EN), filtros reactivos de proyectos y arquitectura vanilla ultra liviana.</p>
+      <h3 align="center">🌐 Portafolio Web Oficial (FM.)</h3>
+      <p align="center"><b>Sitio Web Personal &amp; Showcase de Software</b></p>
       <p align="center">
-        <code>HTML5</code> • <code>CSS3 Glassmorphism</code> • <code>Vanilla JS</code> • <code>Web3Forms API</code> • <code>i18n</code>
+        Sitio web interactivo con diseño <b>Monocromático Premium</b> (#0A0A0A), sistema multilingüe dinámico (ES/EN), filtros reactivos de proyectos y arquitectura ligera de alto rendimiento.
+      </p>
+      <p align="center">
+        <code>HTML5</code> • <code>CSS3 Monocromático</code> • <code>Vanilla JS</code> • <code>Web3Forms API</code> • <code>i18n</code>
+      </p>
+      <p align="center">
+        <a href="https://josue2004exe.github.io/">
+          <img src="https://img.shields.io/badge/Explorar_Portafolio_Oficial_↗-161616?style=for-the-badge&logoColor=white&labelColor=0a0a0a" alt="Ver Portafolio" />
+        </a>
       </p>
     </td>
   </tr>
