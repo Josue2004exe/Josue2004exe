@@ -34,26 +34,32 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-#### 📱 Desarrollo Móvil & Lenguajes
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Native](https://img.shields.io/badge/Android_Native-073042?style=for-the-badge&logo=android&logoColor=3DDC84)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0E3A5D?style=for-the-badge&logo=android&logoColor=4285F4)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN (SIN ETIQUETAS RECTANGULARES) -->
+<a href="https://github.com/Josue2004exe">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,js,html,css,vscode,git,github,windows&perline=10&theme=dark" />
+</a>
 
-#### 🤖 Vibe Coding & AI
-![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-AI_Driven_Dev-0A192F?style=for-the-badge&logo=codefactor&logoColor=00F5FF)
-![Gemini AI](https://img.shields.io/badge/Gemini_API-1E1B4B?style=for-the-badge&logo=google&logoColor=8E75FF)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/><br/>
 
-#### ⚙️ Entornos de Desarrollo & Herramientas
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-Google_AI-1E293B?style=for-the-badge&logo=google&logoColor=4285F4)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-073042?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows Tuning](https://img.shields.io/badge/Windows_Optimization-004E8C?style=for-the-badge&logo=windows&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <b>📱 Móvil &amp; Lenguajes</b><br/>
+      <code>Kotlin</code> • <code>Android Studio</code><br/>
+      <code>Jetpack Compose</code> • <code>Python</code>
+    </td>
+    <td align="center" width="33%">
+      <b>🤖 Vibe Coding &amp; IA</b><br/>
+      <code>Antigravity IDE</code> • <code>Gemini AI</code><br/>
+      <code>JavaScript</code> • <code>HTML5/CSS3</code>
+    </td>
+    <td align="center" width="33%">
+      <b>⚙️ Sistemas &amp; Herramientas</b><br/>
+      <code>Windows Tuning</code> • <code>Git &amp; GitHub</code><br/>
+      <code>VS Code</code> • <code>Low Latency</code>
+    </td>
+  </tr>
+</table>
 
 </div>
 
