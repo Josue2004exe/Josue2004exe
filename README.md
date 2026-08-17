@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- BANNER HD MONOCROMÁTICO PREMIUM (ESTILO PORTAFOLIO OFICIAL #0A0A0A) -->
-<img src="https://raw.githubusercontent.com/josue2004exe/josue2004exe/main/assets/header_monochrome.png" alt="Flavio Morales Banner" width="100%"/>
+<!-- BANNER HD MONOCROMÁTICO PREMIUM OUTFIT BLACK -->
+<img src="https://raw.githubusercontent.com/josue2004exe/josue2004exe/main/assets/banner_flavio_morales.png" alt="Flavio Morales Banner" width="100%"/>
 
 <br/><br/>
 
