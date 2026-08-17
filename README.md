@@ -93,18 +93,24 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 ---
 
-### 📊 Estadísticas y Actividad de GitHub
+### 📊 Estadísticas y Métricas de GitHub
 
 <div align="center">
 
-<!-- TARJETAS DE DETALLES Y LENGUAJES ESTABLES -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josue2004exe&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue2004exe&theme=tokyonight" width="49%" />
+<!-- TARJETAS DE ESTADÍSTICAS DARK & NEON CYAN EN ALTA DEFINICIÓN -->
+<a href="https://github.com/Josue2004exe">
+  <img src="https://grs-pi.vercel.app/api?username=Josue2004exe&show_icons=true&bg_color=060913&title_color=00f5ff&text_color=cbd5e1&icon_color=00f5ff&border_color=00f5ff&hide_border=false" height="175" />
+</a>
+<a href="https://github.com/Josue2004exe">
+  <img src="https://grs-pi.vercel.app/api/top-langs/?username=Josue2004exe&layout=compact&bg_color=060913&title_color=00f5ff&text_color=cbd5e1&icon_color=00f5ff&border_color=00f5ff&hide_border=false" height="175" />
+</a>
 
 <br/><br/>
 
-<!-- GRÁFICA DE ACTIVIDAD INTERACTIVA -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Josue2004exe&theme=tokyo-night&bg_color=0a0f1d&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="98%" />
+<!-- GRÁFICA DE ACTIVIDAD CONTINUA -->
+<a href="https://github.com/Josue2004exe">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josue2004exe&custom_title=Historial%20de%20Actividad%20y%20Contribuciones&bg_color=060913&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff" width="98%" />
+</a>
 
 </div>
 
