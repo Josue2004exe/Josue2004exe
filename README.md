@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- BANNER VECTORIAL DE ALTO RENDIMIENTO (LOCAL Y 100% GARANTIZADO) -->
-<img src="./assets/header.svg" alt="Flavio Morales Banner" width="100%"/>
+<!-- BANNER HD RETINA (CARGA GARANTIZADA 100% EN GITHUB) -->
+<img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/header.png" alt="Flavio Morales Banner" width="100%"/>
 
 <br/><br/>
 
