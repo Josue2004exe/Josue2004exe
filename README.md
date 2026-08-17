@@ -114,7 +114,7 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-<!-- TARJETAS DE ESTADÍSTICAS SIMÉTRICAS -->
+<!-- TARJETAS DE ESTADÍSTICAS SIMÉTRICAS EN PALETA MONOCROMÁTICA LUXURY (#0A0A0A) -->
 <table align="center" border="0" cellpadding="0" cellspacing="6">
   <tr align="center">
     <td align="center" valign="middle">
@@ -129,13 +129,6 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
     </td>
   </tr>
 </table>
-
-<br/>
-
-<!-- CUADRÍCULA OFICIAL DE CONTRIBUCIONES EN MODO OSCURO (#161B22 & VERDE ESMERALDA) -->
-<a href="https://github.com/Josue2004exe">
-  <img src="https://raw.githubusercontent.com/josue2004exe/josue2004exe/main/assets/contributions_dark.svg" alt="Cuadrícula de Contribuciones de Flavio Morales" width="98%" />
-</a>
 
 </div>
 
