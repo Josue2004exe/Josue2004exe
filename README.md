@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- BANNER HD MONOCROMÁTICO PREMIUM (ESTILO PORTAFOLIO OFICIAL) -->
-<img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/header_monochrome.png" alt="Flavio Morales Banner" width="100%"/>
+<!-- BANNER HD MONOCROMÁTICO PREMIUM (ESTILO PORTAFOLIO OFICIAL #0A0A0A) -->
+<img src="https://raw.githubusercontent.com/josue2004exe/josue2004exe/main/assets/header_monochrome.png" alt="Flavio Morales Banner" width="100%"/>
 
 <br/><br/>
 
@@ -37,8 +37,8 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 <!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN -->
 <a href="https://github.com/Josue2004exe">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,js,html,css" height="48" alt="Languages & Mobile" />
-  <img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/antigravity_official.png" height="48" alt="Antigravity IDE" title="Antigravity IDE" style="vertical-align: top; margin: 0 2px;" />
-  <img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/sqlserver.png" height="48" alt="SQL Server" title="Microsoft SQL Server" style="vertical-align: top; margin: 0 2px;" />
+  <img src="https://raw.githubusercontent.com/josue2004exe/josue2004exe/main/assets/antigravity_official.png" height="48" alt="Antigravity IDE" title="Antigravity IDE" style="vertical-align: top; margin: 0 2px;" />
+  <img src="https://raw.githubusercontent.com/josue2004exe/josue2004exe/main/assets/sqlserver.png" height="48" alt="SQL Server" title="Microsoft SQL Server" style="vertical-align: top; margin: 0 2px;" />
   <img src="https://skillicons.dev/icons?i=git,github,windows" height="48" alt="Tools & OS" />
 </a>
 
