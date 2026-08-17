@@ -26,7 +26,7 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 - ⚡ **Vibe Coding & AI-Driven Development:** Creando productos y soluciones a máxima velocidad con herramientas de IA de última generación para iterar, diseñar y desplegar sin fricción.
 - 📱 **Especialidad Móvil & Desktop:** Desarrollo Android nativo moderno (**Kotlin + Jetpack Compose**) y herramientas de tuning de bajo nivel para Windows (baja latencia y optimización de recursos).
 - 🧠 **Filosofía de desarrollo:** Código limpio, interfaces reactivas intuitivas y foco en rendimiento real.
-- 💬 **Hablemos de:** Kotlin, Android Native, Vibe Coding, AI Workflows, Antigravity IDE, Windows Tuning y nuevos proyectos.
+- 💬 **Hablemos de:** Kotlin, Android Native, Vibe Coding, AI Workflows, Antigravity IDE, SQL Server, Windows Tuning y nuevos proyectos.
 
 ---
 
@@ -34,10 +34,11 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-<!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN (CON LOGO OFICIAL DE ANTIGRAVITY) -->
+<!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN -->
 <a href="https://github.com/Josue2004exe">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,js,html,css" height="48" alt="Languages & Mobile" />
   <img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/antigravity_official.png" height="48" alt="Antigravity IDE" title="Antigravity IDE" style="vertical-align: top; margin: 0 2px;" />
+  <img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/sqlserver.png" height="48" alt="SQL Server" title="Microsoft SQL Server" style="vertical-align: top; margin: 0 2px;" />
   <img src="https://skillicons.dev/icons?i=git,github,windows" height="48" alt="Tools & OS" />
 </a>
 
@@ -56,9 +57,9 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
       <code>JavaScript</code> • <code>HTML5/CSS3</code>
     </td>
     <td align="center" width="33%">
-      <b>⚙️ Sistemas &amp; Herramientas</b><br/>
-      <code>Windows Tuning</code> • <code>Git &amp; GitHub</code><br/>
-      <code>Antigravity IDE</code> • <code>Low Latency</code>
+      <b>⚙️ Bases de Datos &amp; Sistemas</b><br/>
+      <code>SQL Server</code> • <code>Room DB</code><br/>
+      <code>Windows Tuning</code> • <code>Git &amp; GitHub</code>
     </td>
   </tr>
 </table>
