@@ -34,10 +34,10 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-<!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN (CON LOGO OFICIAL DE ANTIGRAVITY IDE) -->
+<!-- ICONOS VISUALES MODERNOS EN ALTA DEFINICIÓN (CON LOGO OFICIAL DE ANTIGRAVITY) -->
 <a href="https://github.com/Josue2004exe">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,js,html,css" height="48" alt="Languages & Mobile" />
-  <img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/antigravity_ide.png" height="48" alt="Antigravity IDE" title="Antigravity IDE" style="vertical-align: top; margin: 0 2px;" />
+  <img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/antigravity_official.png" height="48" alt="Antigravity IDE" title="Antigravity IDE" style="vertical-align: top; margin: 0 2px;" />
   <img src="https://skillicons.dev/icons?i=git,github,windows" height="48" alt="Tools & OS" />
 </a>
 
