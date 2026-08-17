@@ -106,20 +106,21 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-<!-- TARJETAS DE ESTADÍSTICAS EN PALETA MONOCROMÁTICA LUXURY (#0A0A0A / #FFFFFF / #8E8E93) -->
-<a href="https://github.com/Josue2004exe">
-  <img src="https://grs-pi.vercel.app/api?username=Josue2004exe&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="175" />
-</a>
-<a href="https://github.com/Josue2004exe">
-  <img src="https://grs-pi.vercel.app/api/top-langs/?username=Josue2004exe&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="175" />
-</a>
-
-<br/><br/>
-
-<!-- GRÁFICA DE ACTIVIDAD CONTINUA -->
-<a href="https://github.com/Josue2004exe">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josue2004exe&custom_title=Historial%20de%20Actividad%20y%20Contribuciones&bg_color=0a0a0a&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=222222" width="98%" />
-</a>
+<!-- TARJETAS DE ESTADÍSTICAS SIMÉTRICAS EN PALETA MONOCROMÁTICA LUXURY (#0A0A0A) -->
+<table align="center" border="0" cellpadding="0" cellspacing="6">
+  <tr align="center">
+    <td align="center" valign="middle">
+      <a href="https://github.com/Josue2004exe">
+        <img src="https://grs-pi.vercel.app/api?username=Josue2004exe&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="170" alt="Flavio Morales GitHub Stats" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Josue2004exe">
+        <img src="https://grs-pi.vercel.app/api/top-langs/?username=Josue2004exe&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="170" alt="Lenguajes Más Usados" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
