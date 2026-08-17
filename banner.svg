@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <defs>
+    <!-- Gradientes de Fondo y Efectos -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="40%" stop-color="#0A0F1D"/>
+      <stop offset="100%" stop-color="#0D1B2A"/>
+    </linearGradient>
+    
+    <linearGradient id="cyanPurpleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="100%" stop-color="#0072FF"/>
+    </linearGradient>
+
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.25"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0A0F1D" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <!-- Filtro de Resplandor Neon -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif;
+      font-weight: 900;
+      font-size: 44px;
+      letter-spacing: 2.5px;
+      fill: #FFFFFF;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', monospace;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      fill: #00E5FF;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Inter', sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      fill: #94A3B8;
+    }
+    .highlight {
+      fill: #00E5FF;
+      font-weight: 700;
+    }
+    .tag-box {
+      fill: rgba(0, 229, 255, 0.08);
+      stroke: rgba(0, 229, 255, 0.4);
+      stroke-width: 1;
+      rx: 6px;
+    }
+  </style>
+
+  <!-- Fondo Principal con Borde -->
+  <rect width="900" height="240" rx="16" fill="url(#bgGrad)"/>
+  <rect width="898" height="238" x="1" y="1" rx="15" fill="none" stroke="rgba(0, 229, 255, 0.2)" stroke-width="1.5"/>
+
+  <!-- Patrón de Puntos de Red Cibernética -->
+  <g opacity="0.12" fill="#00E5FF">
+    <circle cx="50" cy="40" r="1.5"/><circle cx="90" cy="40" r="1.5"/><circle cx="130" cy="40" r="1.5"/><circle cx="170" cy="40" r="1.5"/>
+    <circle cx="50" cy="80" r="1.5"/><circle cx="90" cy="80" r="1.5"/><circle cx="130" cy="80" r="1.5"/><circle cx="170" cy="80" r="1.5"/>
+    <circle cx="730" cy="40" r="1.5"/><circle cx="770" cy="40" r="1.5"/><circle cx="810" cy="40" r="1.5"/><circle cx="850" cy="40" r="1.5"/>
+    <circle cx="730" cy="80" r="1.5"/><circle cx="770" cy="80" r="1.5"/><circle cx="810" cy="80" r="1.5"/><circle cx="850" cy="80" r="1.5"/>
+  </g>
+
+  <!-- Ondas Abstractas Suaves de Fondo -->
+  <path d="M 0 160 Q 220 80 450 140 T 900 110 L 900 240 L 0 240 Z" fill="url(#waveGrad)"/>
+  <path d="M 0 190 Q 300 120 580 180 T 900 150 L 900 240 L 0 240 Z" fill="url(#waveGrad)" opacity="0.7"/>
+
+  <!-- Línea de Onda Resplandeciente Decorativa -->
+  <path d="M 0 175 Q 260 95 500 160 T 900 130" fill="none" stroke="url(#neonCyan)" stroke-width="2.5" filter="url(#subtleGlow)" opacity="0.85"/>
+  <path d="M 0 205 Q 350 140 620 195 T 900 170" fill="none" stroke="url(#cyanPurpleGrad)" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Botones de Terminal Simulado Superior Izquierdo -->
+  <g transform="translate(30, 24)">
+    <circle cx="0" cy="0" r="4.5" fill="#EF4444" opacity="0.8"/>
+    <circle cx="15" cy="0" r="4.5" fill="#F59E0B" opacity="0.8"/>
+    <circle cx="30" cy="0" r="4.5" fill="#10B981" opacity="0.8"/>
+  </g>
+
+  <!-- Chip Badge Superior: 5TO SEMESTRE • VIBE CODING -->
+  <g transform="translate(340, 24)">
+    <rect x="-10" y="-12" width="240" height="24" class="tag-box"/>
+    <text x="110" y="4" text-anchor="middle" class="badge-text">⚡ 5TO SEMESTRE • VIBE CODING</text>
+  </g>
+
+  <!-- TÍTULO PRINCIPAL: FLAVIO MORALES -->
+  <g transform="translate(450, 96)">
+    <!-- Sombra de resplandor para el texto -->
+    <text x="0" y="0" text-anchor="middle" class="title" filter="url(#glow)" opacity="0.4" fill="#00E5FF">FLAVIO MORALES</text>
+    <text x="0" y="0" text-anchor="middle" class="title">FLAVIO MORALES</text>
+  </g>
+
+  <!-- Barra Acentuada Neón Central -->
+  <rect x="360" y="112" width="180" height="3.5" rx="2" fill="url(#cyanPurpleGrad)" filter="url(#subtleGlow)"/>
+
+  <!-- SUBTÍTULO DESCRIPTIVO -->
+  <g transform="translate(450, 146)">
+    <text x="0" y="0" text-anchor="middle" class="subtitle">
+      FULL-STACK <tspan class="highlight">|</tspan> ANDROID DEVELOPER <tspan class="highlight">|</tspan> SYSTEM OPTIMIZATION
+    </text>
+  </g>
+
+  <!-- CHIPS DE ESPECIALIDAD INFERIORES -->
+  <g transform="translate(450, 186)">
+    <rect x="-240" y="-12" width="130" height="22" class="tag-box"/>
+    <text x="-175" y="3" text-anchor="middle" class="badge-text">📱 KOTLIN &amp; COMPOSE</text>
+
+    <rect x="-95" y="-12" width="190" height="22" class="tag-box"/>
+    <text x="0" y="3" text-anchor="middle" class="badge-text">⚡ AI-DRIVEN ARCHITECTURE</text>
+
+    <rect x="110" y="-12" width="130" height="22" class="tag-box"/>
+    <text x="175" y="3" text-anchor="middle" class="badge-text">🚀 WINDOWS TUNING</text>
+  </g>
+</svg>

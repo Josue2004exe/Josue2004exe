@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- HEADER ANIMADO DINÁMICO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:0d1b2a,100:00e5ff&height=220&section=header&text=Flavio%20Morales&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Android%20Developer%20%7C%20Vibe%20Coding%20%26%20AI%20Builder&descSize=16&descAlignY=68&descAlign=50" width="100%"/>
+<!-- BANNER VECTORIAL DE ALTO RENDIMIENTO (LOCAL Y 100% GARANTIZADO) -->
+<img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/banner.svg" alt="Flavio Morales Banner" width="100%"/>
+
+<br/><br/>
 
 <!-- BADGES DE CONTACTO RÁPIDO & VISITAS -->
 [![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Oficial-josue2004exe.github.io-00e5ff?style=for-the-badge&logoColor=white&labelColor=0a0f1d)](https://josue2004exe.github.io/)
