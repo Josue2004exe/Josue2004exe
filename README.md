@@ -6,11 +6,11 @@
 <br/><br/>
 
 <!-- BADGES DE CONTACTO RÁPIDO & VISITAS -->
-[![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Oficial-josue2004exe.github.io-00e5ff?style=for-the-badge&logoColor=white&labelColor=0a0f1d)](https://josue2004exe.github.io/)
-[![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0f1d)](https://discord.gg/JyGVZ2JpwB)
-[![Gmail](https://img.shields.io/badge/Email-Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1d)](mailto:josuemorales2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio_Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1d)](https://linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Josue2004exe&label=Vistas_del_Perfil&color=00e5ff&style=for-the-badge&labelColor=0a0f1d)](https://github.com/Josue2004exe)
+[![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Oficial-josue2004exe.github.io-006680?style=for-the-badge&labelColor=060913)](https://josue2004exe.github.io/)
+[![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=060913)](https://discord.gg/JyGVZ2JpwB)
+[![Gmail](https://img.shields.io/badge/Email-Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060913)](mailto:josuemorales2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio_Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060913)](https://linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Josue2004exe&label=Vistas_del_Perfil&color=006680&style=for-the-badge&labelColor=060913)](https://github.com/Josue2004exe)
 
 </div>
 
@@ -36,24 +36,24 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 #### 📱 Desarrollo Móvil & Lenguajes
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Android Native](https://img.shields.io/badge/Android_Native-073042?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0E3A5D?style=for-the-badge&logo=android&logoColor=4285F4)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 #### 🤖 Vibe Coding & AI
-![Vibe Coding](https://img.shields.io/badge/⚡_Vibe_Coding-AI_Driven_Dev-00e5ff?style=for-the-badge&labelColor=0a0f1d)
-![Gemini AI](https://img.shields.io/badge/Gemini_API-8E75FF?style=for-the-badge&logo=google&logoColor=white)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-AI_Driven_Dev-0A192F?style=for-the-badge&logo=codefactor&logoColor=00F5FF)
+![Gemini AI](https://img.shields.io/badge/Gemini_API-1E1B4B?style=for-the-badge&logo=google&logoColor=8E75FF)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### ⚙️ Entornos de Desarrollo & Herramientas
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-Google_AI_Agentic-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-Google_AI-1E293B?style=for-the-badge&logo=google&logoColor=4285F4)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-073042?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows Tuning](https://img.shields.io/badge/Windows_Optimization-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Tuning](https://img.shields.io/badge/Windows_Optimization-004E8C?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
