@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- BANNER HD RETINA (CARGA GARANTIZADA 100% EN GITHUB) -->
-<img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/header.png" alt="Flavio Morales Banner" width="100%"/>
+<!-- BANNER HD MONOCROMÁTICO PREMIUM (ESTILO PORTAFOLIO OFICIAL) -->
+<img src="https://raw.githubusercontent.com/Josue2004exe/Josue2004exe/main/assets/header_monochrome.png" alt="Flavio Morales Banner" width="100%"/>
 
 <br/><br/>
 
-<!-- BADGES DE CONTACTO RÁPIDO & VISITAS -->
-[![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Oficial-josue2004exe.github.io-006680?style=for-the-badge&labelColor=060913)](https://josue2004exe.github.io/)
-[![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=060913)](https://discord.gg/JyGVZ2JpwB)
-[![Gmail](https://img.shields.io/badge/Email-Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060913)](mailto:josuemorales2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio_Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=060913)](https://linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Josue2004exe&label=Vistas_del_Perfil&color=006680&style=for-the-badge&labelColor=060913)](https://github.com/Josue2004exe)
+<!-- BADGES DE CONTACTO RÁPIDO & VISITAS (PALETA MONOCROMÁTICA #0A0A0A & #121212) -->
+[![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Oficial-josue2004exe.github.io-161616?style=for-the-badge&logoColor=white&labelColor=0a0a0a)](https://josue2004exe.github.io/)
+[![Discord](https://img.shields.io/badge/Discord-Comunidad-161616?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a)](https://discord.gg/JyGVZ2JpwB)
+[![Gmail](https://img.shields.io/badge/Email-Contacto_Directo-161616?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:josuemorales2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio_Morales-161616?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Josue2004exe&label=Vistas_del_Perfil&color=161616&style=for-the-badge&labelColor=0a0a0a)](https://github.com/Josue2004exe)
 
 </div>
 
@@ -106,19 +106,19 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 <div align="center">
 
-<!-- TARJETAS DE ESTADÍSTICAS DARK & NEON CYAN EN ALTA DEFINICIÓN -->
+<!-- TARJETAS DE ESTADÍSTICAS EN PALETA MONOCROMÁTICA LUXURY (#0A0A0A / #FFFFFF / #8E8E93) -->
 <a href="https://github.com/Josue2004exe">
-  <img src="https://grs-pi.vercel.app/api?username=Josue2004exe&show_icons=true&bg_color=060913&title_color=00f5ff&text_color=cbd5e1&icon_color=00f5ff&border_color=00f5ff&hide_border=false" height="175" />
+  <img src="https://grs-pi.vercel.app/api?username=Josue2004exe&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="175" />
 </a>
 <a href="https://github.com/Josue2004exe">
-  <img src="https://grs-pi.vercel.app/api/top-langs/?username=Josue2004exe&layout=compact&bg_color=060913&title_color=00f5ff&text_color=cbd5e1&icon_color=00f5ff&border_color=00f5ff&hide_border=false" height="175" />
+  <img src="https://grs-pi.vercel.app/api/top-langs/?username=Josue2004exe&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="175" />
 </a>
 
 <br/><br/>
 
 <!-- GRÁFICA DE ACTIVIDAD CONTINUA -->
 <a href="https://github.com/Josue2004exe">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josue2004exe&custom_title=Historial%20de%20Actividad%20y%20Contribuciones&bg_color=060913&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josue2004exe&custom_title=Historial%20de%20Actividad%20y%20Contribuciones&bg_color=0a0a0a&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=222222" width="98%" />
 </a>
 
 </div>
