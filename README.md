@@ -3,11 +3,12 @@
 <!-- HEADER ANIMADO DINÁMICO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:0d1b2a,100:00e5ff&height=220&section=header&text=Flavio%20Morales&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Android%20Developer%20%7C%20Vibe%20Coding%20%26%20AI%20Builder&descSize=16&descAlignY=68&descAlign=50" width="100%"/>
 
-<!-- BADGES DE CONTACTO RÁPIDO -->
+<!-- BADGES DE CONTACTO RÁPIDO & VISITAS -->
 [![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Oficial-josue2004exe.github.io-00e5ff?style=for-the-badge&logoColor=white&labelColor=0a0f1d)](https://josue2004exe.github.io/)
 [![Discord](https://img.shields.io/badge/Discord-Comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0f1d)](https://discord.gg/JyGVZ2JpwB)
 [![Gmail](https://img.shields.io/badge/Email-Contacto_Directo-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1d)](mailto:josuemorales2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio_Morales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1d)](https://linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Josue2004exe&label=Vistas_del_Perfil&color=00e5ff&style=for-the-badge&labelColor=0a0f1d)](https://github.com/Josue2004exe)
 
 </div>
 
@@ -15,15 +16,15 @@
 
 ### 👨‍💻 Sobre mí / About Me
 
-¡Hola! Soy **Flavio Morales**, estudiante universitario cursando el **5to semestre de Ingeniería** y apasionado por el desarrollo de software moderno, la optimización de sistemas y la cultura de **Vibe Coding** ⚡ (creación ágil de software, prototipado ultra rápido y desarrollo potenciado por Inteligencia Artificial).
+¡Hola! Soy **Flavio Morales**, estudiante universitario cursando el **5to semestre de Ingeniería** y apasionado por el desarrollo de software moderno, la optimización de sistemas y la cultura de **Vibe Coding** ⚡ (creación ágil de software, prototipado ultra rápido y desarrollo de alto impacto potenciado por Inteligencia Artificial).
 
-Me enfoco en construir soluciones que combinen velocidad, arquitectura limpia y alto rendimiento, desde aplicaciones móviles nativas hasta herramientas de optimización para PC y plataformas web.
+Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitectura limpia y alto rendimiento, desde aplicaciones móviles nativas hasta herramientas de optimización para PC y plataformas web.
 
-- 🎓 **En la universidad:** Cursando actualmente el **5to semestre de Ingeniería**, fortaleciendo bases en algoritmos, sistemas y arquitectura de software.
-- ⚡ **Vibe Coding & AI-Driven Development:** Creando productos funcionales a máxima velocidad apoyándome en herramientas de IA de última generación para iterar, diseñar y desplegar sin fricción.
+- 🎓 **En la universidad:** Cursando actualmente el **5to semestre de Ingeniería**, fortaleciendo bases sólidas en algoritmos, estructuras de datos y arquitectura de sistemas.
+- ⚡ **Vibe Coding & AI-Driven Development:** Creando productos y soluciones a máxima velocidad con herramientas de IA de última generación para iterar, diseñar y desplegar sin fricción.
 - 📱 **Especialidad Móvil & Desktop:** Desarrollo Android nativo moderno (**Kotlin + Jetpack Compose**) y herramientas de tuning de bajo nivel para Windows (baja latencia y optimización de recursos).
-- 🧠 **Filosofía de desarrollo:** Código limpio, interfaces intuitivas y foco en rendimiento real.
-- 💬 **Hablemos de:** Kotlin, Android Native, Vibe Coding, AI Workflows, Windows Tuning y nuevos proyectos.
+- 🧠 **Filosofía de desarrollo:** Código limpio, interfaces reactivas intuitivas y foco en rendimiento real.
+- 💬 **Hablemos de:** Kotlin, Android Native, Vibe Coding, AI Workflows, Antigravity IDE, Windows Tuning y nuevos proyectos.
 
 ---
 
@@ -45,12 +46,13 @@ Me enfoco en construir soluciones que combinen velocidad, arquitectura limpia y 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### ⚙️ Sistemas, Optimización & Herramientas
-![Windows](https://img.shields.io/badge/Windows_Optimization-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### ⚙️ Entornos de Desarrollo & Herramientas
+![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-Google_AI_Agentic-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Windows Tuning](https://img.shields.io/badge/Windows_Optimization-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
@@ -90,16 +92,18 @@ Me enfoco en construir soluciones que combinen velocidad, arquitectura limpia y 
 
 ---
 
-### 📊 Estadísticas de GitHub / GitHub Stats
+### 📊 Estadísticas y Actividad de GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Josue2004exe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue2004exe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1d&title_color=00e5ff&text_color=c9d1d9" height="165" />
+<!-- TARJETAS DE DETALLES Y LENGUAJES ESTABLES -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Josue2004exe&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Josue2004exe&theme=tokyonight" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Josue2004exe&theme=tokyonight&hide_border=true&background=0a0f1d&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
+<!-- GRÁFICA DE ACTIVIDAD INTERACTIVA -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Josue2004exe&theme=tokyo-night&bg_color=0a0f1d&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="98%" />
 
 </div>
 
