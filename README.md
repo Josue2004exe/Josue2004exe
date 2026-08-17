@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO DINÁMICO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:0d1b2a,100:00e5ff&height=220&section=header&text=Flavio%20Morales&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Android%20Developer%20%7C%20Software%20Optimization%20Engineer&descSize=16&descAlignY=68&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,50:0d1b2a,100:00e5ff&height=220&section=header&text=Flavio%20Morales&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Android%20Developer%20%7C%20Vibe%20Coding%20%26%20AI%20Builder&descSize=16&descAlignY=68&descAlign=50" width="100%"/>
 
 <!-- BADGES DE CONTACTO RÁPIDO -->
 [![Portafolio Web](https://img.shields.io/badge/🌐_Portafolio_Oficial-josue2004exe.github.io-00e5ff?style=for-the-badge&logoColor=white&labelColor=0a0f1d)](https://josue2004exe.github.io/)
@@ -15,12 +15,15 @@
 
 ### 👨‍💻 Sobre mí / About Me
 
-Desarrollador de software apasionado por la **arquitectura limpia, la optimización de bajo nivel y el desarrollo de aplicaciones móviles nativas y soluciones web**. Me especializo en crear sistemas intuitivos, rápidos y altamente escalables aplicando patrones de diseño modernos y buenas prácticas de ingeniería de software.
+¡Hola! Soy **Flavio Morales**, estudiante universitario cursando el **5to semestre de Ingeniería** y apasionado por el desarrollo de software moderno, la optimización de sistemas y la cultura de **Vibe Coding** ⚡ (creación ágil de software, prototipado ultra rápido y desarrollo potenciado por Inteligencia Artificial).
 
-- 🔭 **Actualmente enfocado en:** Desarrollo Android nativo moderno (**Kotlin + Jetpack Compose**) y herramientas de optimización para Windows.
-- ⚡ **Especialidad:** Optimización de rendimiento, reducción de latencia en sistemas (DPC/Interrupts), descarte de bloatware y UI/UX fluida.
-- 🧠 **Aprendizaje e Innovación:** Integración de Inteligencia Artificial (Gemini API, NLP) y sistemas distribuidos.
-- 💬 **Pregúntame sobre:** Kotlin, Android Native, Clean Architecture, Windows Tuning, Algoritmos y Web Moderna.
+Me enfoco en construir soluciones que combinen velocidad, arquitectura limpia y alto rendimiento, desde aplicaciones móviles nativas hasta herramientas de optimización para PC y plataformas web.
+
+- 🎓 **En la universidad:** Cursando actualmente el **5to semestre de Ingeniería**, fortaleciendo bases en algoritmos, sistemas y arquitectura de software.
+- ⚡ **Vibe Coding & AI-Driven Development:** Creando productos funcionales a máxima velocidad apoyándome en herramientas de IA de última generación para iterar, diseñar y desplegar sin fricción.
+- 📱 **Especialidad Móvil & Desktop:** Desarrollo Android nativo moderno (**Kotlin + Jetpack Compose**) y herramientas de tuning de bajo nivel para Windows (baja latencia y optimización de recursos).
+- 🧠 **Filosofía de desarrollo:** Código limpio, interfaces intuitivas y foco en rendimiento real.
+- 💬 **Hablemos de:** Kotlin, Android Native, Vibe Coding, AI Workflows, Windows Tuning y nuevos proyectos.
 
 ---
 
@@ -35,11 +38,12 @@ Desarrollador de software apasionado por la **arquitectura limpia, la optimizaci
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 🌐 Desarrollo Web & Frontend
+#### 🤖 Vibe Coding, AI & Web
+![Vibe Coding](https://img.shields.io/badge/⚡_Vibe_Coding-AI_Driven_Dev-00e5ff?style=for-the-badge&labelColor=0a0f1d)
+![Gemini AI](https://img.shields.io/badge/Gemini_API-8E75FF?style=for-the-badge&logo=google&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vanilla JS](https://img.shields.io/badge/Vanilla_JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Responsive UI](https://img.shields.io/badge/UI/UX-Glassmorphism_&_Dark_Mode-00e5ff?style=for-the-badge)
 
 #### ⚙️ Sistemas, Optimización & Herramientas
 ![Windows](https://img.shields.io/badge/Windows_Optimization-0078D6?style=for-the-badge&logo=windows&logoColor=white)
