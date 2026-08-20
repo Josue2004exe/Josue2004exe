@@ -110,30 +110,6 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
 
 ---
 
-### 📊 Estadísticas y Métricas de GitHub
-
-<div align="center">
-
-<!-- TARJETAS DE ESTADÍSTICAS SIMÉTRICAS EN PALETA MONOCROMÁTICA LUXURY (#0A0A0A) -->
-<table align="center" border="0" cellpadding="0" cellspacing="6">
-  <tr align="center">
-    <td align="center" valign="middle">
-      <a href="https://github.com/Josue2004exe">
-        <img src="https://grs-pi.vercel.app/api?username=Josue2004exe&show_icons=true&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="170" alt="Flavio Morales GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/Josue2004exe">
-        <img src="https://grs-pi.vercel.app/api/top-langs/?username=Josue2004exe&layout=compact&bg_color=0a0a0a&title_color=ffffff&text_color=8e8e93&icon_color=ffffff&border_color=222222&hide_border=false" height="170" alt="Lenguajes Más Usados" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
   <sub>Diseñado con precisión por <b>Flavio Morales</b> • Siempre abierto a colaborar en proyectos innovadores y desafiantes.</sub>
 </div>
