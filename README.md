@@ -94,7 +94,7 @@ Me enfoco en construir soluciones que combinen velocidad de desarrollo, arquitec
       <h3 align="center">🌐 Portafolio Web Oficial (FM.)</h3>
       <p align="center"><b>Sitio Web Personal &amp; Showcase de Software</b></p>
       <p align="center">
-        Sitio web interactivo con diseño <b>Monocromático Premium</b> (#0A0A0A), sistema multilingüe dinámico (ES/EN), filtros reactivos de proyectos y arquitectura ligera de alto rendimiento.
+        Sitio web interactivo con diseño <b>Monocromático Premium</b>, sistema multilingüe dinámico, filtros reactivos de proyectos y arquitectura ligera de alto rendimiento.
       </p>
       <p align="center">
         <code>HTML5</code> • <code>CSS3 Monocromático</code> • <code>Vanilla JS</code> • <code>Web3Forms API</code> • <code>i18n</code>
